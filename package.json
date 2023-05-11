@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "react-bootstrap": "^2.7.4",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "uuid": "^9.0.0"
+  }
+}
